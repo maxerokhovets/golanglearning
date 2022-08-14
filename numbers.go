@@ -17,6 +17,7 @@ func main() {
 	}
 	evenoddnumb(numbers)
 	maxminnumber(numbers)
+	threenine(numbers)
 }
 
 func evenoddnumb(numbers []int) {
