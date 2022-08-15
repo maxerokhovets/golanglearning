@@ -18,6 +18,9 @@ func main() {
 	evenoddnumb(numbers)
 	maxminnumber(numbers)
 	threenine(numbers)
+	divfiveandseven(numbers)
+	threedigits(numbers)
+	simpleNumber(numbers)
 }
 
 func evenoddnumb(numbers []int) {
